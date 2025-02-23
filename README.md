@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Laporan Praktikum
+
+|  | Pemrograman Berbasis Framework 2025 |
+|--|--|
+| NIM |  2241720083 |
+| Nama |  Ahmed Fathir Syafaat |
+| Kelas | TI - 3C |
+
+
+### 1: Persiapan Lingkungan
+> ![alt text](assets-report/1.png)
+
+> ![alt text](assets-report/2.png)
+
+### 2: Membuat Komponen React
+> ![alt text](assets-report/3.png)
+
+### 3: Menggunakan JSX untuk Membuat Komponen Dinamis
+> ![alt text](assets-report/4.gif)
+
+### 4: Menggunakan Props untuk Mengirim Data
+> ![alt text](assets-report/5.png)
+
+### 5: Menggunakan State untuk Mengelola Data
+> ![alt text](assets-report/6.gif)
+
+### Tugas Praktikum
+1. Buat komponen baru bernama TodoList yang menampilkan daftar tugas (todo list). Gunakan state untuk mengelola daftar tugas dan props untuk mengirim data tugas ke komponen anak.
+2. Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input.
+3. Implementasikan fitur untuk menghapus tugas dari daftar.
+
+> ![alt text](assets-report/7.gif)
